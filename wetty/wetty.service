@@ -1,0 +1,13 @@
+[Unit]
+Description=wetty Service
+After=network.target
+
+[Service]
+Type=simple
+User=root
+ExecStart=/usr/local/bin/wetty -p 3000 >> /var/log/wetty.log 2>&1
+Restart=on-abort
+
+
+[Install]
+WantedBy=multi-user.target
