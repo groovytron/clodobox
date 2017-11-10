@@ -10,6 +10,10 @@ company whose firewall rules forbid connexions on ports different from `80`
 (HTTP) or `443`(HTTPS). It's a trick to allow you to access a bash using
 those ports.
 
+A good (and better) alternative is
+[`sslh`](http://www.rutschle.net/tech/sslh/README.html) as it doesn't depend
+on `nodejs`.
+
 # Doom server
 
 For the Doom fans, a friend created bash script for the last
