@@ -1,2 +1,2 @@
 # clodobox
-Scripts and comfiguration templates for friends' servers
+Scripts and configuration templates for friends' server
