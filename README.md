@@ -16,7 +16,7 @@ on `nodejs`.
 
 # Doom server
 
-For the Doom fans, a friend created bash script for the last
+For the Doom fans, a friend created bash scripts for the last
 [Zandronum server](https://wiki.zandronum.com/Main_Page).
 Everything is in the `doomserv` folder.
 They are here to give examples and to keep backup of his scripts.
